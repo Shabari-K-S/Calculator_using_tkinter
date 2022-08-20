@@ -7,7 +7,8 @@ You can understand this code very easyly.
 The only thing needed is python IDLE
 
 then run this in command prompt
-  pip install tkinter 
+* pip install tkinter 
+
 To Download tkinter module in Python 
  
 
